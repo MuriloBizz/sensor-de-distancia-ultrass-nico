@@ -9,7 +9,6 @@ byte pinoReceptor=10; //echo
 const byte G=3;
 const byte B=4;
 const byte R=5;
-#difine alu7
 
 void setup()
 {
